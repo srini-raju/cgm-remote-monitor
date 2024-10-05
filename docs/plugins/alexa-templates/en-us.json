@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "night scout",
+            "invocationName": "my spark",
             "intents": [
                 {
                     "name": "NSStatus",
