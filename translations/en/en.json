@@ -582,7 +582,7 @@
     ,"virtAsstIob":"and you have %1 insulin on board."
     ,"virtAsstIobIntent":"You have %1 insulin on board"
     ,"virtAsstIobUnits":"%1 units of"
-    ,"virtAsstLaunch":"What would you like to check on Nightscout?"
+    ,"virtAsstLaunch":"What would you like to check on My Spark?"
     ,"virtAsstPreamble":"Your"
     ,"virtAsstPreamble3person":"%1 has a "
     ,"virtAsstNoInsulin":"no"

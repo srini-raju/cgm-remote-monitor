@@ -48,7 +48,7 @@ describe('Alexa REST api', function ( ) {
       .end(function (err, res)  {
         if (err) return done(err);
 
-        const launchText = 'What would you like to check on Nightscout?';
+        const launchText = 'What would you like to check on My Spark?';
 
         res.body.response.outputSpeech.text.should.equal(launchText);
         res.body.response.reprompt.outputSpeech.text.should.equal(launchText);
